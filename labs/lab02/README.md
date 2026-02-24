@@ -24,4 +24,5 @@ Text field: Для обробки обрано поле full_content, яке є 
 Стабільність: Досягнуто 100% ідемпотентності пайплайну — повторна обробка вже очищеного тексту не змінює результат.
 
 Посилання на raw.csv: https://drive.google.com/file/d/1is0P_aweSnvK2cmfHnQXGVXBjQMSPTdu/view?usp=sharing
+
 Посилання на processed_v2.csv: https://drive.google.com/file/d/1SwacHs9B_Yz8DYN2iCAqgubdHOjdlEyj/view?usp=sharing
