@@ -1,0 +1,6 @@
+spacy>=3.7.0
+stanza>=1.8.0
+pandas>=2.0.0
+numpy
+ipywidgets
+uk_core_news_trf
